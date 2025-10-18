@@ -71,7 +71,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🚀 Usage
+## Usage
 
 ### Run Streamlit App
 
@@ -99,7 +99,7 @@ Open the `brain_tumor_detector.ipynb` notebook in your preferred Jupyter environ
 
 ---
 
-## 📸 Screenshots
+## Screenshots
 
 Below are some screenshots illustrating the application's interface and functionality.
 
